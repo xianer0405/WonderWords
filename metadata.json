@@ -1,0 +1,6 @@
+{
+  "name": " WonderWords - 趣味单词大冒险",
+  "description": "A gamified English vocabulary learning app for 8-year-olds (3rd Grade), featuring flashcards, quizzes, and AI-powered storytelling.",
+  "port": 9999,
+  "requestFramePermissions": []
+}
